@@ -27,3 +27,23 @@ npm start
 ```` bash
 npm run dev
 ````
+
+
+### Autor
+
+Configurado e organizado por: [Hylan Silva](https://github.com/hylansilva)
+
+[![Twitter](https://img.shields.io/twitter/follow/lanosilvadev?style=social)](https://twitter.com/lanosilvadev)
+[![GitHub](https://img.shields.io/github/followers/hylansilva?style=social)](https://github.com/hylansilva)
+
+
+Baseado no projeto principal de: [José Luiz González Sánchez](https://github.com/joseluisgs)
+
+[![Twitter](https://img.shields.io/twitter/follow/joseluisgonsan?style=social)](https://twitter.com/joseluisgonsan)
+[![GitHub](https://img.shields.io/github/followers/joseluisgs?style=social)](https://github.com/joseluisgs)
+
+
+
+### Licenca
+
+Este projeto está licenciado sob a licença MIT, caso queira saber mais acesse o arquivo [LICENSE](./LICENSE) para uso didático e educacional.
